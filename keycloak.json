@@ -1,8 +1,8 @@
 {
-  "realm": "test",
-  "auth-server-url": "http://localhost:8080/auth",
+  "realm": "MyDemo",
+  "auth-server-url": "http://mykcsso.azurewebsites.net/auth/",
   "ssl-required": "external",
-  "resource": "keycloak-express",
+  "resource": "my-react-cilent",
   "public-client": true,
   "confidential-port": 0
 }
